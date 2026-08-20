@@ -96,7 +96,7 @@
   <a href="https://github.com/AazikoGlobalLLP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/AazikoGlobalLLP"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
-
+![AazikoGlobalLLP × devp32046-svg](https://profileforge-one.vercel.app/api/widgets/duo?a=AazikoGlobalLLP&b=devp32046-svg)
 ---
 
 <div align="center">
